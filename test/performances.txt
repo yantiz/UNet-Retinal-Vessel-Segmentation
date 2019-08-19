@@ -1,0 +1,16 @@
+Macro average area under the precision-recall curves: 0.9133156
+
+Micro average area under the precision-recall curves: 0.99834517
+
+Area under precision-recall curve for artery class: 0.85660689
+
+Area under precision-recall curve for background class: 0.99962434
+
+Area under precision-recall curve for vein class: 0.88371471
+
+Confusion matrix:
+[[ 127316   42504    4481]
+ [  20756 6593859   23303]
+ [   9575   48146  168486]]
+
+ACCURACY: 0.97886388
