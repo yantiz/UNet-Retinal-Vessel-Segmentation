@@ -10,3 +10,6 @@ In a nutshell, the purpose of our project is to train a classifier that can clas
 
 ## Predictions for Test Images:
 ![](test/all_predictions_hard.png)
+
+## Precision-Recall Curves for Individual Classes:
+![](test/Precision_recall_multiclass.png)
